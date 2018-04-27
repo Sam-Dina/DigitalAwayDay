@@ -25,4 +25,4 @@
 
 ##Note
 
->The pattern to read the activity from the input file is not configurable hence, it is expected that the activities will the given format
+>The pattern to read the activity from the input file is not configurable hence, it is expected that the activities will have the same format
